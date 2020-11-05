@@ -1,0 +1,12 @@
+C:\Users\jyrili\source\repos\Kirjasto\Kirjasto\bin\Debug\netcoreapp3.1\Kirjasto.exe
+C:\Users\jyrili\source\repos\Kirjasto\Kirjasto\bin\Debug\netcoreapp3.1\Kirjasto.deps.json
+C:\Users\jyrili\source\repos\Kirjasto\Kirjasto\bin\Debug\netcoreapp3.1\Kirjasto.runtimeconfig.json
+C:\Users\jyrili\source\repos\Kirjasto\Kirjasto\bin\Debug\netcoreapp3.1\Kirjasto.runtimeconfig.dev.json
+C:\Users\jyrili\source\repos\Kirjasto\Kirjasto\bin\Debug\netcoreapp3.1\Kirjasto.dll
+C:\Users\jyrili\source\repos\Kirjasto\Kirjasto\bin\Debug\netcoreapp3.1\Kirjasto.pdb
+C:\Users\jyrili\source\repos\Kirjasto\Kirjasto\obj\Debug\netcoreapp3.1\Kirjasto.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repos\Kirjasto\Kirjasto\obj\Debug\netcoreapp3.1\Kirjasto.AssemblyInfoInputs.cache
+C:\Users\jyrili\source\repos\Kirjasto\Kirjasto\obj\Debug\netcoreapp3.1\Kirjasto.AssemblyInfo.cs
+C:\Users\jyrili\source\repos\Kirjasto\Kirjasto\obj\Debug\netcoreapp3.1\Kirjasto.dll
+C:\Users\jyrili\source\repos\Kirjasto\Kirjasto\obj\Debug\netcoreapp3.1\Kirjasto.pdb
+C:\Users\jyrili\source\repos\Kirjasto\Kirjasto\obj\Debug\netcoreapp3.1\Kirjasto.genruntimeconfig.cache

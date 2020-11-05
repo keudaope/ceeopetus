@@ -1,0 +1,10 @@
+C:\Users\jyrili\source\repos\TestiWF\TestiWF\bin\Debug\TestiWF.exe.config
+C:\Users\jyrili\source\repos\TestiWF\TestiWF\bin\Debug\TestiWF.exe
+C:\Users\jyrili\source\repos\TestiWF\TestiWF\bin\Debug\TestiWF.pdb
+C:\Users\jyrili\source\repos\TestiWF\TestiWF\obj\Debug\TestiWF.csprojAssemblyReference.cache
+C:\Users\jyrili\source\repos\TestiWF\TestiWF\obj\Debug\TestiWF.Form1.resources
+C:\Users\jyrili\source\repos\TestiWF\TestiWF\obj\Debug\TestiWF.Properties.Resources.resources
+C:\Users\jyrili\source\repos\TestiWF\TestiWF\obj\Debug\TestiWF.csproj.GenerateResource.cache
+C:\Users\jyrili\source\repos\TestiWF\TestiWF\obj\Debug\TestiWF.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repos\TestiWF\TestiWF\obj\Debug\TestiWF.exe
+C:\Users\jyrili\source\repos\TestiWF\TestiWF\obj\Debug\TestiWF.pdb

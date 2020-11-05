@@ -1,0 +1,12 @@
+C:\Users\jyrili\source\repos\testausta\testausta\obj\Debug\netcoreapp3.1\testausta.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repos\testausta\testausta\obj\Debug\netcoreapp3.1\testausta.AssemblyInfoInputs.cache
+C:\Users\jyrili\source\repos\testausta\testausta\obj\Debug\netcoreapp3.1\testausta.AssemblyInfo.cs
+C:\Users\jyrili\source\repos\testausta\testausta\bin\Debug\netcoreapp3.1\testausta.exe
+C:\Users\jyrili\source\repos\testausta\testausta\bin\Debug\netcoreapp3.1\testausta.deps.json
+C:\Users\jyrili\source\repos\testausta\testausta\bin\Debug\netcoreapp3.1\testausta.runtimeconfig.json
+C:\Users\jyrili\source\repos\testausta\testausta\bin\Debug\netcoreapp3.1\testausta.runtimeconfig.dev.json
+C:\Users\jyrili\source\repos\testausta\testausta\bin\Debug\netcoreapp3.1\testausta.dll
+C:\Users\jyrili\source\repos\testausta\testausta\bin\Debug\netcoreapp3.1\testausta.pdb
+C:\Users\jyrili\source\repos\testausta\testausta\obj\Debug\netcoreapp3.1\testausta.dll
+C:\Users\jyrili\source\repos\testausta\testausta\obj\Debug\netcoreapp3.1\testausta.pdb
+C:\Users\jyrili\source\repos\testausta\testausta\obj\Debug\netcoreapp3.1\testausta.genruntimeconfig.cache

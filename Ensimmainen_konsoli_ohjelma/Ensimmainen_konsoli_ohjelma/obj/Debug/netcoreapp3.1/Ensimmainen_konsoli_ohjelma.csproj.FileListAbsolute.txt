@@ -1,0 +1,12 @@
+C:\Users\jyrili\source\repos\Ensimmainen_konsoli_ohjelma\Ensimmainen_konsoli_ohjelma\bin\Debug\netcoreapp3.1\Ensimmainen_konsoli_ohjelma.exe
+C:\Users\jyrili\source\repos\Ensimmainen_konsoli_ohjelma\Ensimmainen_konsoli_ohjelma\bin\Debug\netcoreapp3.1\Ensimmainen_konsoli_ohjelma.deps.json
+C:\Users\jyrili\source\repos\Ensimmainen_konsoli_ohjelma\Ensimmainen_konsoli_ohjelma\bin\Debug\netcoreapp3.1\Ensimmainen_konsoli_ohjelma.runtimeconfig.json
+C:\Users\jyrili\source\repos\Ensimmainen_konsoli_ohjelma\Ensimmainen_konsoli_ohjelma\bin\Debug\netcoreapp3.1\Ensimmainen_konsoli_ohjelma.runtimeconfig.dev.json
+C:\Users\jyrili\source\repos\Ensimmainen_konsoli_ohjelma\Ensimmainen_konsoli_ohjelma\bin\Debug\netcoreapp3.1\Ensimmainen_konsoli_ohjelma.dll
+C:\Users\jyrili\source\repos\Ensimmainen_konsoli_ohjelma\Ensimmainen_konsoli_ohjelma\bin\Debug\netcoreapp3.1\Ensimmainen_konsoli_ohjelma.pdb
+C:\Users\jyrili\source\repos\Ensimmainen_konsoli_ohjelma\Ensimmainen_konsoli_ohjelma\obj\Debug\netcoreapp3.1\Ensimmainen_konsoli_ohjelma.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repos\Ensimmainen_konsoli_ohjelma\Ensimmainen_konsoli_ohjelma\obj\Debug\netcoreapp3.1\Ensimmainen_konsoli_ohjelma.AssemblyInfoInputs.cache
+C:\Users\jyrili\source\repos\Ensimmainen_konsoli_ohjelma\Ensimmainen_konsoli_ohjelma\obj\Debug\netcoreapp3.1\Ensimmainen_konsoli_ohjelma.AssemblyInfo.cs
+C:\Users\jyrili\source\repos\Ensimmainen_konsoli_ohjelma\Ensimmainen_konsoli_ohjelma\obj\Debug\netcoreapp3.1\Ensimmainen_konsoli_ohjelma.dll
+C:\Users\jyrili\source\repos\Ensimmainen_konsoli_ohjelma\Ensimmainen_konsoli_ohjelma\obj\Debug\netcoreapp3.1\Ensimmainen_konsoli_ohjelma.pdb
+C:\Users\jyrili\source\repos\Ensimmainen_konsoli_ohjelma\Ensimmainen_konsoli_ohjelma\obj\Debug\netcoreapp3.1\Ensimmainen_konsoli_ohjelma.genruntimeconfig.cache

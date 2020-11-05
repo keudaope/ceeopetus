@@ -1,0 +1,13 @@
+C:\Users\jyrili\source\repos\Ensimmainen_ohjelma\Ensimmainen_ohjelma\bin\Debug\netcoreapp3.1\Ensimmainen_ohjelma.exe
+C:\Users\jyrili\source\repos\Ensimmainen_ohjelma\Ensimmainen_ohjelma\bin\Debug\netcoreapp3.1\Ensimmainen_ohjelma.deps.json
+C:\Users\jyrili\source\repos\Ensimmainen_ohjelma\Ensimmainen_ohjelma\bin\Debug\netcoreapp3.1\Ensimmainen_ohjelma.runtimeconfig.json
+C:\Users\jyrili\source\repos\Ensimmainen_ohjelma\Ensimmainen_ohjelma\bin\Debug\netcoreapp3.1\Ensimmainen_ohjelma.runtimeconfig.dev.json
+C:\Users\jyrili\source\repos\Ensimmainen_ohjelma\Ensimmainen_ohjelma\bin\Debug\netcoreapp3.1\Ensimmainen_ohjelma.dll
+C:\Users\jyrili\source\repos\Ensimmainen_ohjelma\Ensimmainen_ohjelma\bin\Debug\netcoreapp3.1\Ensimmainen_ohjelma.pdb
+C:\Users\jyrili\source\repos\Ensimmainen_ohjelma\Ensimmainen_ohjelma\obj\Debug\netcoreapp3.1\Ensimmainen_ohjelma.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repos\Ensimmainen_ohjelma\Ensimmainen_ohjelma\obj\Debug\netcoreapp3.1\Ensimmainen_ohjelma.AssemblyInfoInputs.cache
+C:\Users\jyrili\source\repos\Ensimmainen_ohjelma\Ensimmainen_ohjelma\obj\Debug\netcoreapp3.1\Ensimmainen_ohjelma.AssemblyInfo.cs
+C:\Users\jyrili\source\repos\Ensimmainen_ohjelma\Ensimmainen_ohjelma\obj\Debug\netcoreapp3.1\Ensimmainen_ohjelma.dll
+C:\Users\jyrili\source\repos\Ensimmainen_ohjelma\Ensimmainen_ohjelma\obj\Debug\netcoreapp3.1\Ensimmainen_ohjelma.pdb
+C:\Users\jyrili\source\repos\Ensimmainen_ohjelma\Ensimmainen_ohjelma\obj\Debug\netcoreapp3.1\Ensimmainen_ohjelma.genruntimeconfig.cache
+C:\Users\jyrili\source\repos\Ensimmainen_ohjelma\Ensimmainen_ohjelma\obj\Debug\netcoreapp3.1\Ensimmainen_ohjelma.csprojAssemblyReference.cache

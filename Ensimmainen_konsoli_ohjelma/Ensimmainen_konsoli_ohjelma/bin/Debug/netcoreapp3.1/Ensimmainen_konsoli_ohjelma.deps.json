@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ensimmainen_konsoli_ohjelma/1.0.0": {
+        "runtime": {
+          "Ensimmainen_konsoli_ohjelma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ensimmainen_konsoli_ohjelma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

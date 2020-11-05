@@ -1,0 +1,13 @@
+C:\Users\jyrili\source\repos\LuokkaHarjoitus\LuokkaHarjoitus\bin\Debug\netcoreapp3.1\LuokkaHarjoitus.exe
+C:\Users\jyrili\source\repos\LuokkaHarjoitus\LuokkaHarjoitus\bin\Debug\netcoreapp3.1\LuokkaHarjoitus.deps.json
+C:\Users\jyrili\source\repos\LuokkaHarjoitus\LuokkaHarjoitus\bin\Debug\netcoreapp3.1\LuokkaHarjoitus.runtimeconfig.json
+C:\Users\jyrili\source\repos\LuokkaHarjoitus\LuokkaHarjoitus\bin\Debug\netcoreapp3.1\LuokkaHarjoitus.runtimeconfig.dev.json
+C:\Users\jyrili\source\repos\LuokkaHarjoitus\LuokkaHarjoitus\bin\Debug\netcoreapp3.1\LuokkaHarjoitus.dll
+C:\Users\jyrili\source\repos\LuokkaHarjoitus\LuokkaHarjoitus\bin\Debug\netcoreapp3.1\LuokkaHarjoitus.pdb
+C:\Users\jyrili\source\repos\LuokkaHarjoitus\LuokkaHarjoitus\obj\Debug\netcoreapp3.1\LuokkaHarjoitus.csprojAssemblyReference.cache
+C:\Users\jyrili\source\repos\LuokkaHarjoitus\LuokkaHarjoitus\obj\Debug\netcoreapp3.1\LuokkaHarjoitus.csproj.CoreCompileInputs.cache
+C:\Users\jyrili\source\repos\LuokkaHarjoitus\LuokkaHarjoitus\obj\Debug\netcoreapp3.1\LuokkaHarjoitus.AssemblyInfoInputs.cache
+C:\Users\jyrili\source\repos\LuokkaHarjoitus\LuokkaHarjoitus\obj\Debug\netcoreapp3.1\LuokkaHarjoitus.AssemblyInfo.cs
+C:\Users\jyrili\source\repos\LuokkaHarjoitus\LuokkaHarjoitus\obj\Debug\netcoreapp3.1\LuokkaHarjoitus.dll
+C:\Users\jyrili\source\repos\LuokkaHarjoitus\LuokkaHarjoitus\obj\Debug\netcoreapp3.1\LuokkaHarjoitus.pdb
+C:\Users\jyrili\source\repos\LuokkaHarjoitus\LuokkaHarjoitus\obj\Debug\netcoreapp3.1\LuokkaHarjoitus.genruntimeconfig.cache
